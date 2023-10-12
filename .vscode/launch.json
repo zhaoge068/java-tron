@@ -1,0 +1,33 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/><meta name="theme-color" content="#000000"><link rel="canonical" href="https://tronscan.org/"><link rel="manifest" href="/manifest.json"><link rel="icon" type="image/png" href="/favicon.png?v=2"/><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><meta property="og:site_name" content="TRON"><meta name="robots" content="noodp,noydir"/><meta property="og:url" content="https://tronscan.org"/><meta name="keywords" content="tronscan,tron explorer,tron scan, tron blockchain, trx explorer, 波场区块链浏览器,trx浏览器,区块链浏览器"><meta name="description" property="og:description" id="description" content="TRONSCAN is the first blockchain browser in the tron community. It supports multiple login methods and provides a complete browsing and search experience. Experience the tron-ecology in the TRONSCAN blockchain browser.TRONSCAN是首款社区型波场区块链浏览器，它支持多种登录方式，提供完善的浏览和查找体验。体验波场生态尽在TRONSCAN波场区块链浏览器。"><meta property="og:image" content="https://static.tronscan.org/production/logo/share_logo.png"/><title>TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器</title><meta name="twitter:image:src" content="https://static.tronscan.org/production/logo/share_logo.png"/><meta name="twitter:site" content="@tronscan"/><meta name="twitter:card" content="summary"/><meta name="twitter:title" property="og:title" content="TRONSCAN | TRON BlockChain Explorer"/><meta name="twitter:description" property="og:description" id="description" content="TRONSCAN is the first blockchain browser in the tron community. It supports multiple login methods and provides a complete browsing and search experience. Experience the tron-ecology in the TRONSCAN blockchain browser.TRONSCAN是首款社区型波场区块链浏览器，它支持多种登录方式，提供完善的浏览和查找体验。体验波场生态尽在TRONSCAN波场区块链浏览器。"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="google" content="notranslate"><link rel="stylesheet" href="https://static.tronscan.org/tronscan/iconfont/iconfont.css?v=202308311500"><script defer="defer" src="/static/js/tronweb.a9ee6132.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/antds.09c6a7c6.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/ethersproject.2c4ca034.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/bable.07ff8e6a.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/mainlite.600b4348.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/antdesign.5f0b348b.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/domloadsh.96abd3ca.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/browserifys.4414dd4d.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/6892.b54d9bf0.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/5990.235e94b5.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script defer="defer" src="/static/js/main.2c21c7bc.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><link href="/static/css/antds.eb826249.css" rel="stylesheet"><link href="/static/css/mainlite.c48881be.css" rel="stylesheet"><link href="/static/css/antdesign.afb0dbaa.css" rel="stylesheet"><link href="/static/css/6892.ae77c288.css" rel="stylesheet"><link href="/static/css/main.e303ade2.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app now now2.</noscript><div id="root" class="h-100"></div><script src="https://www.googletagmanager.com/gtag/js?id=G-088048WGZM" defer="defer" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="https://recaptcha.net/recaptcha/api.js" defer="defer" type="1bbbe78c16c135253a81f99d-text/javascript"></script><link rel="stylesheet" href="https://static.tronscan.org/releases/v5.3.1/css/all.css" crossorigin="anonymous"><script src="/cdn/js/react.production.min.16.14.0.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="/cdn/js/react-dom.production.min.16.14.0.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="/cdn/js/moment.min.2.29.1.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.at" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="/cdn/js/ethers.min.5.6.9.js" type="1bbbe78c16c135253a81f99d-application/javascript"></script><script src="/cdn/js/jquery.min.3.6.0.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="/cdn/js/html2canvas.min.1.0.0.js" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script src="https://static.tronscan.org/tronscan/iconfont/iconfont.js?v=202309211630" type="1bbbe78c16c135253a81f99d-text/javascript"></script><script type="1bbbe78c16c135253a81f99d-text/javascript">function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-088048WGZM",{linker:{domains:["tronscan.io"]}}),window.performance.mark("start")</script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1bbbe78c16c135253a81f99d-|49" defer></script></body></html>
+        
+        
+
+
+        
+
+
+
+
+        :focus-visible
+
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Attach by Process ID",
+            "processId": "${command:PickJavaProcess}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
